@@ -90,7 +90,7 @@ namespace Popcorn.Utils
         /// <summary>
         /// Url of the server updates
         /// </summary>
-        public const string GithubRepository = "https://github.com/popcorn/Popcorn";
+        public const string GithubRepository = "https://github.com/popcorn-windows/popcorn";
 
         /// <summary>
         /// Default request timeout
